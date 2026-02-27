@@ -5,3 +5,6 @@ steven
 imasuen
 ahmed
 bukola
+
+add new people
+bukola is here
